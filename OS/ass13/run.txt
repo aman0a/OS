@@ -1,0 +1,14 @@
+Enter number of pages: 10
+Enter the page reference string:
+Page 1: 7
+Page 2: 0
+Page 3: 1
+Page 4: 2
+Page 5: 0
+Page 6: 3
+Page 7: 0
+Page 8: 4
+Page 9: 2
+Page 10: 3
+Enter number of frames: 4
+

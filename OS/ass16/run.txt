@@ -1,0 +1,10 @@
+Enter the number of disk requests: 6
+Enter the disk requests (in the form of track numbers):
+Request 1: 98
+Request 2: 183
+Request 3: 41
+Request 4: 122
+Request 5: 14
+Request 6: 124
+Enter the initial position of the disk arm: 53
+

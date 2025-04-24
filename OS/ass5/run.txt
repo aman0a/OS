@@ -1,0 +1,45 @@
+cd ~/Downloads/assignments  # Navigate to your folder
+g++ memory_allocation.cpp -o memory_allocation  # Compile the program
+./memory_allocation  # Run the program
+
+
+
+Enter number of memory blocks: 4
+Enter block sizes:
+200 20 700 50
+
+Enter number of processes: 4
+Enter process sizes:
+20 200 500 50
+
+
+
+Memory Allocation Techniques:
+1. First Fit
+2. Best Fit
+3. Exit
+Enter your choice: 1
+
+Process Allocation Results:
+Process 1 (Size 20) -> Block 1
+Process 2 (Size 200) -> Block 3
+Process 3 (Size 500) -> Not Allocated
+Process 4 (Size 50) -> Block 4
+
+
+
+Memory Allocation Techniques:
+1. First Fit
+2. Best Fit
+3. Exit
+Enter your choice: 2
+
+Process Allocation Results:
+Process 1 (Size 20) -> Block 2
+Process 2 (Size 200) -> Block 1
+Process 3 (Size 500) -> Block 3
+Process 4 (Size 50) -> Block 4
+
+
+
+

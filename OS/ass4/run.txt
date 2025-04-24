@@ -1,0 +1,29 @@
+cd ~/Downloads/assignments  # Navigate to your folder
+g++ bankers_algorithm.cpp -o bankers_algorithm  # Compile the program
+./bankers_algorithm  # Run the program
+
+
+Enter number of processes: 5
+Enter number of resources: 3
+
+Enter Allocation Matrix:
+0 1 0
+2 0 0
+3 0 2
+2 1 1
+0 0 2
+
+Enter Maximum Need Matrix:
+7 5 3
+3 2 2
+9 0 2
+2 2 2
+4 3 3
+
+Enter Available Resources:
+3 3 2
+
+
+The system is in a SAFE state.
+Safe sequence: P1 P3 P4 P0 P2
+
